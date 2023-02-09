@@ -1,2 +1,2 @@
 #!/bin/bash
-Direction-> chmod -R+X.
+Directories chmod -R ugo+X.
