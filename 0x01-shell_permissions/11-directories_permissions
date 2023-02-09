@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod X+X */
+Direction-> chmod -R+X.
