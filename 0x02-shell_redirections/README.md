@@ -1,1 +1,1 @@
-printing  script followed by a new line to the standard output
+a script that disply a confused smile
